@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/fragment_bottomnavi_diary.xml" value="0.27447916666666666" />
+        <entry key="app/src/main/res/layout/fragment_bottomnavi_job_info.xml" value="0.2734375" />
+        <entry key="app/src/main/res/layout/fragment_bottomnavi_mypage.xml" value="0.27447916666666666" />
+        <entry key="app/src/main/res/layout/fragment_bottomnavi_success.xml" value="0.27447916666666666" />
         <entry key="app/src/main/res/menu/bottom_navigation_menu.xml" value="0.27447916666666666" />
       </map>
     </option>
